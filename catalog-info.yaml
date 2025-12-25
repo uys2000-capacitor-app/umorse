@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: umorse
+  annotations:
+    github.com/project-slug: uys2000-capacitor-app/umorse
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
